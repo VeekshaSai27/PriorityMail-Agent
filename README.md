@@ -11,14 +11,16 @@ output pic :2
 <img width="1220" height="815" alt="Screenshot 2025-11-22 145335" src="https://github.com/user-attachments/assets/0d183814-5db1-458e-aaf4-0e2c2e3a2906" />
 output pic :3 
 
+---
+
 the .env file must contain the following variables
-1)GEMINI_API_KEY
-2)MAX_EMAILS
-3)SCHEDULE_MINUTES
-4)TWILIO_SID
-5)TWILIO_AUTH_TOKEN
-6)TWILIO_WHATSAPP_TO
-7)TWILIO_WHATSAPP_FROM
+1. GEMINI_API_KEY
+2. MAX_EMAILS
+3. SCHEDULE_MINUTES
+4. TWILIO_SID
+5. TWILIO_AUTH_TOKEN
+6. TWILIO_WHATSAPP_TO
+7. TWILIO_WHATSAPP_FROM
 
  
  
